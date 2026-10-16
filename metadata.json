@@ -1,0 +1,6 @@
+{
+  "name": "Di Sản Cẩm Lệ - Hành Trình Theo Dấu Chân Lịch Sử",
+  "description": "Ứng dụng giáo dục địa phương tương tác khám phá các Địa chỉ đỏ quận Cẩm Lệ cùng trợ lý ảo thông minh 'Người dẫn đường số' và hệ thống thử thách tích sao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
